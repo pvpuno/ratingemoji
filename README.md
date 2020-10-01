@@ -1,4 +1,4 @@
-# title(Emoji Rating Challenge){
+# title("Emoji Rating Challenge"){
 		
 		return this.options.title || this.options.name;
 	}
