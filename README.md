@@ -1,7 +1,5 @@
-# title("Emoji Rating Challenge"){
-		
-		return this.options.title || this.options.name;
-	}
+# "Emoji Rating Challenge"
+
 
 ## Supporting Scrimba
 
